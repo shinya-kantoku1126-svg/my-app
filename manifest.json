@@ -1,0 +1,17 @@
+{
+  "name": "月別家計簿",
+  "short_name": "家計簿",
+  "description": "月ごとの収支を管理する家計簿アプリ",
+  "start_url": "./kakei.html",
+  "display": "standalone",
+  "background_color": "#f0f4f8",
+  "theme_color": "#667eea",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
